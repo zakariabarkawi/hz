@@ -67,15 +67,6 @@ A fun and engaging platformer game built with creativity and performance in mind
 
 ---
 
-### 🌐 Barkawi Browser
-
-A lightweight and customizable browser project focused on speed and simplicity.
-
-* 🧩 Customizable UI
-* ⚡ Fast performance
-* 🔒 Privacy-focused
-
----
 
 ## 📈 Our Approach
 
